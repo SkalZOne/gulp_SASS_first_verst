@@ -32,6 +32,11 @@ button {
     height: 58px;
     color: white;
     cursor: pointer;
+    transition-duration: 0.5s;
+
+    &:hover {
+        background-color: rgba(65, 36, 224, 0.61);
+    }
 }
 
 header {
@@ -98,7 +103,7 @@ header {
     img {
         position: absolute;
         z-index: -1;
-        left: 143px;
+        left: 150px;
         top: 227px;
     }
 
@@ -304,7 +309,7 @@ header {
     img {
         position: absolute;
         top: 3214px;
-        left: 141px;
+        left: 145px;
         z-index: -1;
     }
 
