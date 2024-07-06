@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI;;;AAGJ;EACI;;AAEA;EACI","file":"style.css","sourcesContent":["body {\r\n    background: rgb(223, 127, 127);\r\n}\r\n\r\na {\r\n    color: black;\r\n\r\n    &:hover {\r\n        color: rgb(180, 21, 21);\r\n    }\r\n}"]}

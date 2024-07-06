@@ -1,0 +1,11 @@
+body {
+  background: rgb(223, 127, 127);
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: rgb(180, 21, 21);
+}
+/*# sourceMappingURL=style.css.map */
